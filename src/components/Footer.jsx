@@ -29,7 +29,7 @@ const Footer = () => {
           <div className='flex flex-col'>
           <h5 className='text-xl font-bold'>Contact Us</h5>
           <div className='flex'>
-           <input type="text" placeholder='Enter your email here....' className='rounded p-1' />
+           <input type="text" placeholder='Enter your email here....' className='rounded p-1 text-black' />
            <button className='btn btn-info ms-2'><i class="fa-solid fa-right-long"></i></button>
           </div>
           <div className='icons flex justify-between mt-3' >
